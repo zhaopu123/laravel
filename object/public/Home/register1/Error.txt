@@ -1,0 +1,8 @@
+﻿文件下载网址  =>  文件保存路径
+about:blank  =>  C:\Users\Administrator\Desktop\176假期\仿站小工具 V3.0\passport.jumei.com\images\513198e03be748a986fd5314274c091e.gif
+https://secure5.jmstatic.com/static_passport/dist/20170328/images/i/error_icon.png?1  =>  C:\Users\Administrator\Desktop\176假期\仿站小工具 V3.0\passport.jumei.com\images\error_icon.png
+https://secure0.jmstatic.com/static_passport/dist/20170328/images/account/login_sign/shadow_8.png?1  =>  C:\Users\Administrator\Desktop\176假期\仿站小工具 V3.0\passport.jumei.com\images\shadow_8.png
+https://secure5.jmstatic.com/static_passport/dist/20170328/images/i/success_icon.png?1  =>  C:\Users\Administrator\Desktop\176假期\仿站小工具 V3.0\passport.jumei.com\images\success_icon.png
+https://secure0.jmstatic.com/static_passport/dist/20170328/images/account/login_sign/status_ok.png?1  =>  C:\Users\Administrator\Desktop\176假期\仿站小工具 V3.0\passport.jumei.com\images\status_ok.png
+https://secure0.jmstatic.com/static_passport/dist/20170328/images/account/login_sign/logo.jpg?1  =>  C:\Users\Administrator\Desktop\176假期\仿站小工具 V3.0\passport.jumei.com\images\logo.jpg
+https://secure0.jmstatic.com/static_passport/dist/20170328/images/account/login_sign/status_ok_8.png?1  =>  C:\Users\Administrator\Desktop\176假期\仿站小工具 V3.0\passport.jumei.com\images\status_ok_8.png
